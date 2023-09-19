@@ -10,7 +10,7 @@
 #
 # Can also be used in conjunction with LaunchFFXIV for IINACT support. (WIP)
 #
-# Author: XenHat (me@xenh.at)
+# Original author: XenHat on GitLab (me@xenh.at) 
 # This work is licensed under the terms of the MIT license.
 # For a copy, see <https://opensource.org/licenses/MIT>.
 #
